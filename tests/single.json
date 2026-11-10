@@ -1,0 +1,19 @@
+{
+    "filter":  {
+                   "extensions":  [
+                                      "СчетаМагазинаТесты"
+                                  ],
+                   "tests":  [
+                                 "СчетаМагазинаТесты_Интеграционные.ПрочитатьВозвращаетДанныеОбъекта"
+                             ]
+               },
+    "reportFormat":  "jUnit",
+    "reportPath":  "D:\\AI.DZ7\\build\\tests\\single.xml",
+    "exitCode":  "D:\\AI.DZ7\\build\\tests\\single.exit",
+    "closeAfterTests":  true,
+    "showReport":  false,
+    "logging":  {
+                    "file":  "D:\\AI.DZ7\\build\\tests\\single.log",
+                    "level":  "info"
+                }
+}

@@ -1,0 +1,12 @@
+﻿# Windows / office junk
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.log
+
+# артефакты сборки и отчёты (make-cf / make-cfe / YAxUnit)
+build/
+
+# служебные отчёты диагностики окружения
+.acl-report/

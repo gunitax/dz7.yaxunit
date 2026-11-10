@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="CommonModule.СчетаМагазинаТесты_Интеграционные" id="1bfdee51-cf46-4115-8cf2-349b0c6620ca" configVersion="1570918b631c476a985327a77204ff29f935bf75"/>
+		<Metadata name="CommonModule.СчетаМагазинаТесты_Интеграционные.Module" id="1bfdee51-cf46-4115-8cf2-349b0c6620ca.0" configVersion="0248242488470fde248419ca0507480b29451cff"/>
+		<Metadata name="CommonModule.СчетаМагазинаТесты_Юнит" id="4b1e69e2-c914-4bd7-ae15-0ef8fc79039a" configVersion="aa1342e04858f3c62e645507db35a0830098b48d"/>
+		<Metadata name="CommonModule.СчетаМагазинаТесты_Юнит.Module" id="4b1e69e2-c914-4bd7-ae15-0ef8fc79039a.0" configVersion="26f57d2f1f4fb8f35afa366389c4bc286226ab56"/>
+		<Metadata name="Configuration.СчетаМагазинаТесты" id="890ce736-8bed-46a9-b001-7b3648d32031" configVersion="601d1597cb48fb04b08563d27fd43dccf234cbaf"/>
+		<Metadata name="Language.Русский" id="1021559b-05a3-41a5-a46b-3d39d9626a7c" configVersion="5f924df71c2dd9576025debc5126f3e76f21f30d"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

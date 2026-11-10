@@ -1,0 +1,19 @@
+{
+    "filter":  {
+                   "extensions":  [
+                                      "СчетаМагазинаТесты"
+                                  ],
+                   "tags":  [
+                                "integration"
+                            ]
+               },
+    "reportFormat":  "jUnit",
+    "reportPath":  "D:\\AI.DZ7\\build\\tests\\integration.xml",
+    "exitCode":  "D:\\AI.DZ7\\build\\tests\\integration.exit",
+    "closeAfterTests":  true,
+    "showReport":  false,
+    "logging":  {
+                    "file":  "D:\\AI.DZ7\\build\\tests\\integration.log",
+                    "level":  "info"
+                }
+}
