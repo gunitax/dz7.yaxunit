@@ -18,6 +18,8 @@
 			<Metadata name="HTTPService.СчетаМагазина.URLTemplate.Типы" id="9360e8ea-266e-47d8-b554-9518853828a5"/>
 			<Metadata name="HTTPService.СчетаМагазина.URLTemplate.Объект" id="99130163-0469-4f20-9066-f9f7f8e9d9db"/>
 			<Metadata name="HTTPService.СчетаМагазина.URLTemplate.Объект.Method.Получить" id="f12aa160-2af1-4885-9a02-b32cf0cafa89"/>
+			<Metadata name="HTTPService.СчетаМагазина.URLTemplate.ПереоценкаЦен" id="b0e1315c-ba99-47bc-8eae-ad7d6f90db8d"/>
+			<Metadata name="HTTPService.СчетаМагазина.URLTemplate.ПереоценкаЦен.Method.Выполнить" id="5d94db62-9ade-414b-b2af-64316f2ad2d8"/>
 		</Metadata>
 		<Metadata name="HTTPService.СчетаМагазина.Module" id="14c04c1c-6f46-4810-a368-e47a36138ae4.0" configVersion="f0240a1274f2216442b7ea35efcd991972285031"/>
 	</ConfigVersions>
