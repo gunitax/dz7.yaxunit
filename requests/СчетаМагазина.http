@@ -1,0 +1,25 @@
+### Переоценка трёх товаров на +7% с 2026-12-01
+POST http://localhost/dz7/hs/objects/prices/reprice
+Authorization: Basic 0JDQtNC80LjQvdC40YHRgtGA0LDRgtC+0YA6
+Content-Type: application/json
+
+{
+  "items": [
+    "<id товара 1>",
+    "<id товара 2>",
+    "<id товара 3>"
+  ],
+  "percent": 7,
+  "date": "2026-12-01"
+}
+
+### Отказ по проценту 150
+POST http://localhost/dz7/hs/objects/prices/reprice
+Authorization: Basic 0JDQtNC80LjQvdC40YHRgtGA0LDRgtC+0YA6
+Content-Type: application/json
+
+{
+  "items": ["<id товара>"],
+  "percent": 150,
+  "date": "2026-12-01"
+}
