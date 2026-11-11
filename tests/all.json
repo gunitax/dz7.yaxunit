@@ -1,0 +1,12 @@
+{
+  "filter": { "extensions": ["СчетаМагазинаТесты"] },
+  "reportFormat": "jUnit",
+  "reportPath": "D:\\AI.DZ7\\build\\tests\\all.xml",
+  "exitCode": "D:\\AI.DZ7\\build\\tests\\all.exit",
+  "closeAfterTests": true,
+  "showReport": false,
+  "logging": {
+    "file": "D:\\AI.DZ7\\build\\tests\\all.log",
+    "level": "info"
+  }
+}
